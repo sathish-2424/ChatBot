@@ -44,7 +44,7 @@ export const ChatInterface: React.FC = () => {
             <header className="gemini-header">
                 <div className="gemini-title">
                     <Menu size={20} />
-                    <span>Gemini Clone</span>
+                    <span>Chatbot</span>
                 </div>
                 <div className="p-2 rounded-full hover:bg-slate-800 cursor-pointer">
                     <div className="w-8 h-8 bg-blue-500 rounded-full flex items-center justify-center text-xs text-white  font-bold">
